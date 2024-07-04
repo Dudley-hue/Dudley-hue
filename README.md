@@ -25,7 +25,8 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dudley-hue&" alt="Dudley-hue" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudley-hue&show_icons=true&locale=en" alt="Dudley-hue" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dudley-hue&show_icons=true&locale=en&layout=compact" Dudley-hue" /></p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dudley-hue&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
