@@ -16,7 +16,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1f2d27?style=for-the-badge&logo=sqlalchemy&logoColor=red)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
 ## 📊 Stats
 
