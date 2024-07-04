@@ -1,10 +1,10 @@
 # Hi there, I'm Dudley 👋
 
-- 👀 I'm a software engineer with a passion for blending technology, art, and science. I enjoy developing innovative software solutions, delving into artificial intelligence, and actively contributing to open-source projects.
-- 🌱 
+-  I'm a software engineer with a passion for blending technology, art, and science. I enjoy developing innovative software solutions, delving into artificial intelligence, and actively contributing to open-source projects.
+-  
 I'm currently advancing my knowledge in machine learning, cloud computing, and enhancing my skills in React.
-- 💞 I'm eager to collaborate on innovative projects that make a positive impact, especially in education, healthcare, environmental sustainability, and other transformative fields.
-- 📫 How to reach me: You can reach me via email at dudleykimani331@gmail.com or connect with me on LinkedIn [here](https://).
+- I'm eager to collaborate on innovative projects that make a positive impact, especially in education, healthcare, environmental sustainability, and other transformative fields.
+-  How to reach me: You can reach me via email at dudleykimani331@gmail.com or connect with me on LinkedIn [here](https://).
 
 
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!
