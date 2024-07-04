@@ -1,8 +1,9 @@
 # Hi there, I'm Dudley 👋
 
-- 👀 I’m interested in exploring the intersections of technology, art, and science. I have a passion for software development, AI, and open-source projects.
-- 🌱 I’m currently learning advanced machine learning techniques, cloud computing, and improving my skills in React and Node.js.
-- 💞 I’m looking to collaborate on innovative projects that aim to make a positive impact, especially in the fields of education, healthcare, and environmental sustainability.
+- 👀 I'm a software engineer with a passion for blending technology, art, and science. I enjoy developing innovative software solutions, delving into artificial intelligence, and actively contributing to open-source projects.
+- 🌱 
+I'm currently advancing my knowledge in machine learning, cloud computing, and enhancing my skills in React.
+- 💞 I'm eager to collaborate on innovative projects that make a positive impact, especially in education, healthcare, environmental sustainability, and other transformative fields.
 - 📫 How to reach me: You can reach me via email at dudleykimani331@gmail.com or connect with me on LinkedIn [here](https://).
 
 
@@ -21,10 +22,6 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 ## 📊 Stats
 
 ![Dudley-hue GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudley-hue&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudley-hue&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dudley-hue&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dudley-hue&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
