@@ -6,7 +6,10 @@
 -  💬  You can reach me via email at dudleykimani331@gmail.com or connect with me on LinkedIn [here](https://).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dudley-hue&label=Profile%20views&color=0e75b6&style=flat" alt="Dudley-hue" /> </p>
+
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!
+
+
 # 🛠 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
