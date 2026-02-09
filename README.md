@@ -10,8 +10,9 @@
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!
 
 ## 🏆 Certifications
-[![AI Skills Badge](https://images.credly.com/size/340x340/images/73e4a58b-a8c1-4f8e-b7b7-6c8e8b8c8c8c/image.png)](https://www.credly.com/badges/32596a6a-6213-4eb6-815a-6f2a29cb448b)
-
+<a href="https://www.credly.com/badges/32596a6a-6213-4eb6-815a-6f2a29cb448b">
+  <img src="https://images.credly.com/images/73e4a58b-a8c1-4f8e-b7b7-6c8e8b8c8c8c/image.png" alt="AI Skills Badge" width="200"/>
+</a>
 # 🛠 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
