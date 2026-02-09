@@ -21,7 +21,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32596a6a-6213-4eb6-815a-6f2a29cb448b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## 📊 Stats
 
