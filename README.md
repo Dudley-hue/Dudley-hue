@@ -11,7 +11,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 ## 🏆 Certifications
 
-[![AI Skills Badge](https://images.credly.com/size/680x680/images/df35df7f-21c9-4e95-aac6-83c4cb42f9da/blob)](https://www.credly.com/badges/32596a6a-6213-4eb6-815a-6f2a29cb448b)
+[![AI Skills Badge](https://images.credly.com/size/340x340/images/df35df7f-21c9-4e95-aac6-83c4cb42f9da/blob)](https://www.credly.com/badges/32596a6a-6213-4eb6-815a-6f2a29cb448b)
 
 
 # 🛠 Languages and Tools
