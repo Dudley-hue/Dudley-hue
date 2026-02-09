@@ -9,6 +9,9 @@
 
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!
 
+## 🏆 Certifications
+
+[![AI Skills Badge](https://images.credly.com/size/340x340/images/32596a6a-6213-4eb6-815a-6f2a29cb448b.png)](https://www.credly.com/badges/32596a6a-6213-4eb6-815a-6f2a29cb448b)
 
 # 🛠 Languages and Tools
 
