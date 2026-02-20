@@ -9,10 +9,6 @@
 
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!
 
-## 🏆 Certifications
-
-[![AI Skills Badge](https://images.credly.com/size/340x340/images/df35df7f-21c9-4e95-aac6-83c4cb42f9da/blob)](https://www.credly.com/badges/32596a6a-6213-4eb6-815a-6f2a29cb448b)
-
 
 # 🛠 Languages and Tools
 
@@ -39,4 +35,8 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dudley-hue&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dudley-hue&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
