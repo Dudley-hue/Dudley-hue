@@ -37,6 +37,6 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dudley-hue&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
